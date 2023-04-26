@@ -1,16 +1,4 @@
-# api
+# crypto bazar
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1682541269](https://user-images.githubusercontent.com/125268240/234697421-96c7479f-4050-4c0c-a474-32ad2aee5716.png)
+![Screenshot_1682541318](https://user-images.githubusercontent.com/125268240/234697433-7c93b500-0eed-4972-9011-3dbaa6721c48.png
